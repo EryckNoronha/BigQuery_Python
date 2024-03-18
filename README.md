@@ -29,14 +29,6 @@ Antes de utilizar este repositório, certifique-se de ter os seguintes requisito
 4. Execute os scripts conforme necessário para integrar seus dados do BigQuery com o VS Code.
 5. Contribua com melhorias e compartilhe suas experiências utilizando o sistema de controle de versão do GitHub.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades para este projeto. Basta criar um fork do repositório, fazer suas alterações e enviar um pull request. Toda contribuição é bem-vinda!
-
-## Suporte
-
-Se tiver alguma dúvida, problema ou sugestão relacionada a este projeto, por favor, abra uma nova issue neste repositório. Faremos o possível para ajudá-lo.
-
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
