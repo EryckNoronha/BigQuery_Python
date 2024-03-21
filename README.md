@@ -29,6 +29,11 @@ Antes de utilizar este repositório, certifique-se de ter os seguintes requisito
 4. Execute os scripts conforme necessário para integrar seus dados do BigQuery com o VS Code.
 5. Contribua com melhorias e compartilhe suas experiências utilizando o sistema de controle de versão do GitHub.
 
+## Tela do Bigquery com as tabelas ingeridas
+
+![Tela do Bigquery com as tabelas ingeridas]( )
+
+
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
