@@ -31,7 +31,7 @@ Antes de utilizar este repositório, certifique-se de ter os seguintes requisito
 
 ## Tela do Bigquery com as tabelas ingeridas
 
-![Tela do Bigquery com as tabelas ingeridas]( )
+![Tela do Bigquery com as tabelas ingeridas](https://github.com/EryckNoronha/BigQuery_Python/blob/main/imagens/tela_bogquery1.png)
 
 
 ## Licença
